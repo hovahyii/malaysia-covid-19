@@ -1,0 +1,35 @@
+[
+{
+    "federal": "Kuala Lumpur",
+    "stateInfo": {
+        "capital": "Kuala Lumpur",
+        "abbr": "KUL",
+        "iso": "MY-14",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Kuala_Lumpur%2C_Malaysia.svg/255px-Flag_of_Kuala_Lumpur%2C_Malaysia.svg.png"
+    },
+    "confirmed": 640,
+    "deaths": 10
+} 
+{
+    "federal": "Labuan",
+    "stateInfo": {
+        "capital": "Victoria",
+        "abbr": "LBN",
+        "iso": "MY-15",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Federal_Territories_of_Malaysia.svg/255px-Flag_of_the_Federal_Territories_of_Malaysia.svg.png"
+    },
+    "confirmed": 12,
+    "deaths": 0
+}
+{
+    "federal": "Putrajaya",
+    "stateInfo": {
+        "capital": "Putrajaya",
+        "abbr": "PJY",
+        "iso": "MY-16",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Federal_Territories_of_Malaysia.svg/255px-Flag_of_the_Federal_Territories_of_Malaysia.svg.png"
+    },
+    "confirmed": 41,
+    "deaths": 1
+} 
+]
