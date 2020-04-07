@@ -1,8 +1,8 @@
 {
-"tested":62,
+"tested":55566,
 "cases":3963
 "negative":3793,
-"under treatment":2579,
+"inTreatment":2579,
 "pending": ,
 "todayCases": 170,
 "recovered":1321,
