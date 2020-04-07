@@ -48,13 +48,13 @@
     "deaths": 2
 },
 {
-    "state": "N9",
+    "state": "Negeri Sembilan",
     "stateInfo": {
         "capital": "Seremban",
         "abbr": "NSN",
         "iso": "MY-05",
         "FIPS": "MY05",
-   	"flag":"https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Negeri_Sembilan.svg"
+   	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Negeri_Sembilan.svg/250px-Flag_of_Negeri_Sembilan.svg.png"
 	},
     "confirmed": 239,
     "deaths": 4
