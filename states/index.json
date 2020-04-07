@@ -10,7 +10,7 @@
     },
     "confirmed": 468,
     "deaths": 10
-} 
+}, 
 {
     "state": "Kedah",
     "stateInfo": {
@@ -22,7 +22,7 @@
     },
     "confirmed": 85,
     "deaths": 1
-}
+},
 {
     "state": "Kelantan",
     "stateInfo": {
@@ -34,7 +34,7 @@
     },
     "confirmed": 85,
     "deaths": 1
-}
+},
 {
     "state": "Malacca",
     "stateInfo": {
@@ -46,7 +46,7 @@
     },
     "confirmed": 99,
     "deaths": 2
-}
+},
 {
     "state": "Negeri Sembilan",
     "stateInfo": {
@@ -58,7 +58,7 @@
     },
     "confirmed": 239,
     "deaths": 4
-}
+},
 {
     "state": "Pahang",
     "stateInfo": {
@@ -70,7 +70,7 @@
     },
     "confirmed": 161,
     "deaths": 1
-}
+},
 {
     "state": "Penang",
     "stateInfo": {
@@ -82,7 +82,7 @@
     },
     "confirmed": 101,
     "deaths": 1
-}
+},
 {
     "state": "Perak",
     "stateInfo": {
@@ -94,7 +94,7 @@
     },
     "confirmed": 219,
     "deaths": 2
-}
+},
 {
     "state": "Perlis",
     "stateInfo": {
@@ -106,7 +106,7 @@
     },
     "confirmed": 13,
     "deaths": 1
-}
+},
 {
     "state": "Sabah",
     "stateInfo": {
@@ -118,7 +118,7 @@
     },
     "confirmed": 240,
     "deaths": 2
-}
+},
 {
     "state": "Sarawak",
     "stateInfo": {
@@ -130,7 +130,7 @@
     },
     "confirmed": 273,
     "deaths": 12
-}
+},
 {
     "state": "Selangor",
     "stateInfo": {
@@ -142,7 +142,7 @@
     },
     "confirmed": 970,
     "deaths": 8
-}
+},
 {
     "state": "Terengganu",
     "stateInfo": {
