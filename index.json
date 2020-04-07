@@ -3,9 +3,9 @@
 "positive":3963,
 "negative":43664,
 "inTreatment":2579,
-"pending": 8109,
-"todayCases": 170,
+"pending":8109,
+"todayCases":170,
 "recovered":1321,
 "deaths":63,
-"todayDeaths": 1,
+"todayDeaths":1,
 }
