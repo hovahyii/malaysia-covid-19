@@ -1,7 +1,7 @@
 [
 {
     "federal": "Kuala Lumpur",
-    "stateInfo": {
+    "federalInfo": {
         "capital": "Kuala Lumpur",
         "abbr": "KUL",
         "iso": "MY-14",
@@ -12,7 +12,7 @@
 }, 
 {
     "federal": "Labuan",
-    "stateInfo": {
+    "federalInfo": {
         "capital": "Victoria",
         "abbr": "LBN",
         "iso": "MY-15",
@@ -23,7 +23,7 @@
 },
 {
     "federal": "Putrajaya",
-    "stateInfo": {
+    "federalInfo": {
         "capital": "Putrajaya",
         "abbr": "PJY",
         "iso": "MY-16",
