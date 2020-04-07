@@ -1,9 +1,9 @@
 {
 "tested":55566,
 "positive":3963
-"negative":3793,
+"negative":43664,
 "inTreatment":2579,
-"pending": ,
+"pending": 8109,
 "todayCases": 170,
 "recovered":1321,
 "deaths":63
