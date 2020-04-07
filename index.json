@@ -1,6 +1,11 @@
 {
-"confirmed":3793,
-"active":8109,
-"recovered":1241,
-"deaths":62
+"test":62
+"positive":3963
+"negative":3793,
+"under treatment":2579,
+"pending": ,
+"todayCases": 170,
+"recovered":1321,
+"deaths":63
+"todayDeaths": 1,
 }
