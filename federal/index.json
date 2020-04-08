@@ -7,9 +7,10 @@
         "iso": "MY-14",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Kuala_Lumpur%2C_Malaysia.svg/255px-Flag_of_Kuala_Lumpur%2C_Malaysia.svg.png"
     },
-    "confirmed": 671,
-    "todayCases": 31,
-    "deaths": 10
+    "confirmed": 685,
+    "todayCases": 14,
+    "deaths": 11,
+  "todayDeath": 1
 }, 
 {
     "federal": "Labuan",
@@ -20,8 +21,9 @@
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Federal_Territories_of_Malaysia.svg/255px-Flag_of_the_Federal_Territories_of_Malaysia.svg.png"
     },
     "confirmed": 13,
-    "todayCases": 1,
-    "deaths": 0
+    "todayCases": 0,
+    "deaths": 0,
+  "todayDeath": 0
 },
 {
     "federal": "Putrajaya",
@@ -31,8 +33,9 @@
         "iso": "MY-16",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Federal_Territories_of_Malaysia.svg/255px-Flag_of_the_Federal_Territories_of_Malaysia.svg.png"
     },
-    "confirmed": 43,
+    "confirmed": 45,
     "todayCases": 2,
-    "deaths": 1
+    "deaths": 1,
+  "todayDeath": 1
 } 
 ]
