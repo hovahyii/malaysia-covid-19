@@ -1,11 +1,11 @@
 {
-"tested":55566,
-"positive":4119,
+"tested":59139,
+"positive":4228,
 "negative":54121,
-"inTreatment":2567,
+"inTreatment":2553,
 "pending":8109,
-"todayCases":156,
-"recovered":1487,
-"deaths":65,
+"todayCases":109,
+"recovered":1608,
+"deaths":67,
 "todayDeaths":2
 }

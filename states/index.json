@@ -8,8 +8,8 @@
         "FIPS": "MY01",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Johor.svg/250px-Flag_of_Johor.svg.png"
     },
-    "confirmed": 496,
-    "todayCases": 18,
+    "confirmed": 503,
+    "todayCases": 7,
     "deaths": 14,
     "todayDeath": 0
 }, 
@@ -22,8 +22,8 @@
         "FIPS": "MY02",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Kedah.svg/250px-Flag_of_Kedah.svg.png"
     },
-    "confirmed": 91,
-    "todayCases": 1,
+    "confirmed": 93,
+    "todayCases": 2,
     "deaths": 1,
     "todayDeath": 0
 },
@@ -36,8 +36,8 @@
         "FIPS": "MY03",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Kelantan.svg/250px-Flag_of_Kelantan.svg.png"
     },
-    "confirmed": 147,
-    "todayCases": 0,
+    "confirmed": 148,
+    "todayCases": 1,
     "deaths": 3,
     "todayDeath": 0
 },
@@ -50,10 +50,10 @@
         "FIPS": "MY04",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Malacca.svg/220px-Flag_of_Malacca.svg.png"
     },
-    "confirmed": 116,
-    "todayCases": 13,
-    "deaths": 2,
-    "todayDeath": 0
+    "confirmed": 119,
+    "todayCases": 3,
+    "deaths": 3,
+    "todayDeath": 1
 },
 {
     "state": "Negeri Sembilan",
@@ -64,10 +64,10 @@
         "FIPS": "MY05",
    	"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Negeri_Sembilan.svg/250px-Flag_of_Negeri_Sembilan.svg.png"
 	},
-    "confirmed": 270,
-    "todayCases": 9,
+    "confirmed": 281,
+    "todayCases": 11,
     "deaths": 5,
-    "todayDeath": 1
+    "todayDeath": 0
 },
 {
     "state": "Pahang",
@@ -78,8 +78,8 @@
         "FIPS": "MY06",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Pahang.svg/250px-Flag_of_Pahang.svg.png"
     },
-    "confirmed": 169,
-    "todayCases": 3,
+    "confirmed": 183,
+    "todayCases": 14,
     "deaths": 1,
     "todayDeath": 0
 },
@@ -93,7 +93,7 @@
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Penang_%28Malaysia%29.svg/255px-Flag_of_Penang_%28Malaysia%29.svg.png"
     },
     "confirmed": 108,
-    "todayCases": 6,
+    "todayCases": 0,
     "deaths": 1,
     "todayDeath": 0
 },
@@ -106,7 +106,7 @@
         "FIPS": "MY07",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_Perak.svg/250px-Flag_of_Perak.svg.png"
     },
-    "confirmed": 237,
+    "confirmed": 241,
     "todayCases": 4,
     "deaths": 2,
     "todayDeath": 0
@@ -134,10 +134,10 @@
         "FIPS": "MY16",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Sabah.svg/200px-Flag_of_Sabah.svg.png"
     },
-    "confirmed": 241,
-    "todayCases": 1,
+    "confirmed": 248,
+    "todayCases": 0,
     "deaths": 2,
-    "todayDeath": 1
+    "todayDeath": 0
 },
 {
     "state": "Sarawak",
@@ -148,10 +148,10 @@
         "FIPS": "MY11",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Sarawak.svg/250px-Flag_of_Sarawak.svg.png"
     },
-    "confirmed": 306,
-    "todayCases": 18,
-    "deaths": 12,
-    "todayDeath": 0
+    "confirmed": 312,
+    "todayCases": 6,
+    "deaths": 13,
+    "todayDeath": 1
 },
 {
     "state": "Selangor",
@@ -162,8 +162,8 @@
         "FIPS": "MY12",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Selangor.svg/230px-Flag_of_Selangor.svg.png"
     },
-    "confirmed": 1078,
-    "todayCases": 58,
+    "confirmed": 1118,
+    "todayCases": 40,
     "deaths": 8,
     "todayDeath": 0
 },
@@ -176,9 +176,9 @@
         "FIPS": "MY13",
    "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_Terengganu.svg/250px-Flag_of_Terengganu.svg.png"
     },
-    "confirmed": 93,
-    "todayCases": 3,
+    "confirmed": 98,
+    "todayCases": 5,
     "deaths": 1,
-    "todayDeath": 1
+    "todayDeath": 0
 }
 ]

@@ -7,10 +7,10 @@
         "iso": "MY-14",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Kuala_Lumpur%2C_Malaysia.svg/255px-Flag_of_Kuala_Lumpur%2C_Malaysia.svg.png"
     },
-    "confirmed": 685,
+    "confirmed": 699,
     "todayCases": 14,
     "deaths": 11,
-  "todayDeath": 1
+  "todayDeath": 0
 }, 
 {
     "federal": "Labuan",
@@ -33,9 +33,9 @@
         "iso": "MY-16",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Federal_Territories_of_Malaysia.svg/255px-Flag_of_the_Federal_Territories_of_Malaysia.svg.png"
     },
-    "confirmed": 45,
+    "confirmed": 47,
     "todayCases": 2,
     "deaths": 1,
-  "todayDeath": 1
+  "todayDeath": 0
 } 
 ]
